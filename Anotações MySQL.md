@@ -15,9 +15,9 @@ SELECT * FROM tabela WHERE coluna = 'EXEMPLO';
 SELECT * FROM tabela WHERE coluna = 'eXeMpLo';
 
 
-#################################
+#############################
 Sintaxe para CRIAR UMA TABELA
-#################################
+#############################
 
 CREATE TABLE clientes
 (
